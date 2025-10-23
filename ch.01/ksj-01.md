@@ -20,7 +20,7 @@
 - **메서드** : state와 action으로 이루어진 핸들러 함수
 - **메시지** : Props 또는 Event
 
-### 2. 메시지는 2가지 형태로 볼 수 있다. Props vs Event
+### 2. 메시지를 2가지 형태로 보았다. Props vs Event
 
 - **Props**
 
